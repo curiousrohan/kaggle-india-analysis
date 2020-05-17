@@ -2,7 +2,7 @@
 https://medium.com/@rohanhazra4/analysing-indian-data-science-community-kaggle-2019-ml-ds-survey-56caf36df41
 
 # Kaggle India Analysis
-Analysing the Indian Ml and DS community through visualiztions.
+Analysing the Indian ML and DS community through visualiztions.
 
 ## Table of Contents
 1. [Project Motivation](#motivation)
